@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is akanksha, and i'am an  Master of Computer Applications student interested in all things python and Data Analysis!
+
+
 
 
